@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husayn</h1>
-<h3 align="center">A passionate frontend developer from Ireland</h3>
+<h3 align="center">A Programming Student from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husaynprograms&label=Profile%20views&color=0e75b6&style=flat" alt="husaynprograms" /> </p>
 
