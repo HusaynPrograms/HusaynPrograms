@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, C++, C#, and a few others**
 
-- 📫 How to reach me **loughnanefionn@gmail.com**
+- 📫 How to reach me **qualter.h1@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SsR-FvRKiyJn2hM_czvAGRbk2I9zTXfJ/edit?usp=sharing&ouid=113911680941642330463&rtpof=true&sd=true](https://docs.google.com/document/d/1SsR-FvRKiyJn2hM_czvAGRbk2I9zTXfJ/edit?usp=sharing&ouid=113911680941642330463&rtpof=true&sd=true)
 
